@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-01-18 17:25:48 -0500
+title:  "Noticias del dia"
+date:   2025-01-19 15:15:15 -0500
 categories: jekyll update
 ---
-Esta pagina es la primera version de mi `portal`.
+Esta es mi segunda pagina de mi `portal`.
 
 Uno, dos, `tres`, `cuatro`
-
-`YEAR-MONTH-DAY-title.MARKUP`
 
 Jekyll also offers powerful support for code snippets:
 

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2025-01-18 17:25:48 -0500
+categories: jekyll update
+---
+Esta pagina es la primera version de mi `portal`.
+
+Uno, dos, `tres`, `cuatro`
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+
+Esta seccion es un bloque
+resaltado en mi post.
+
+{% endhighlight %}
+
+Si nesecitas ver informacion de los productos de [Microsoft][ref01] visita su pagina.
+La empresa [IBM][ref02] tiene muchos productos interesantes.
+El portal de [Amazon][ref03] ofrece muchos productos
+
+[ref01]: https://www.microsoft.com/es-pe
+[ref02]: https://www.ibm.com/account/pe/es/
+[ref03]: https://www.amazon.com/-/es/

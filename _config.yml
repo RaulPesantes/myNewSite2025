@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 
-title: Sitio de E-Commerce nuevo en 2025 jojojo jojojo
+title: Cafeteria tematica
 email: raul_009_7@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cafeteria tematica es un lugar donde encontraras un ambiente calido
+  donde podras disfrutar de losplatos de la epoca de los 90.
+
 baseurl: "myNewSite2025" # the subpath of your site, e.g. /blog
 url: "https://raulpesantes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: raulpesantestwiter
